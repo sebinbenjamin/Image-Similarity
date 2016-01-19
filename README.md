@@ -1,7 +1,7 @@
-# Image-Similarity
+## Image-Similarity
 Python code to compare two images using SimpleCV
 
-# Requires
+### Requires
 -SimpleCV Library
 http://simplecv.org/
 
